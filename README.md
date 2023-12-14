@@ -143,7 +143,32 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 ### PPT Outline
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Enter the main topic of the PPT, and an outline of the PPT will be generated for you.
+
+`Teacher Assistant`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Generate an outline of the PPT based on the input PPT topic
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### PPT Outline
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Enter the main topic of the PPT, and an outline of the PPT will be generated for you.
 
@@ -168,7 +193,92 @@ Generate an outline of the PPT based on the input PPT topic
 
 ### Student Comments
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Enter basic student information and evaluation keywords, and I will help you generate more information
+
+`Teacher Assistant`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Generate student comments based on student information and core evaluation content.
+For example: a 10-year-old diligent, proactive, eager to learn, and helpful boy.
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Question Assistant
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Helps you generate test papers and make question creation easy
+
+`Teacher Assistant`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Generate questions according to requirements.
+For example, help me create questions based on the following requirements:
+Paper type: Math test
+Grade: Ninth grade
+Question type: Multiple choice
+Number of questions: 5
+Question topic: Quadratic function
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Feasibility Analysis of Project Planning
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Provide the 'topic title' and intelligently generate a comprehensive and reasonable feasibility analysis of the research
+
+`Project Proposal`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Generate a comprehensive and reasonable feasibility analysis of the research based on the provided topic title.
+For example:
+
+    Topic Title: Exploring Project-Based Learning in Junior High School Mathematics under the Background of Core Literacy - Taking the 'Clever Five-in-a-Row' Project as an Example
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Student Comments
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Enter basic student information and evaluation keywords, and I will help you generate more information
 
@@ -194,7 +304,7 @@ For example: a 10-year-old diligent, proactive, eager to learn, and helpful boy.
 
 ### Essay Assistant
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Write an essay based on the provided requirements
 
@@ -222,11 +332,11 @@ For example:
 
 ### Lesson Plan Design
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Helps you generate lesson plans for class
 
-`teaching assistant`
+`Teacher Assistant`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 
@@ -247,7 +357,7 @@ You are a senior teacher, skilled in lesson plan design. Please design the lesso
 
 ### Topic Assessment
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Conduct topic evaluation and analysis based on the topics initially determined by educational journals
 
@@ -275,9 +385,38 @@ For example:
 
 ---
 
+### English Pronunciation Practice Sentences
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Generate sentences for practicing pronunciation
+
+`Teacher Assistant`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Generate sentences for practicing pronunciation based on the provided topic and pronunciation.
+For example:
+
+    Topic: Ordering in a restaurant
+    Pronunciation: consonant to consonant linking
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### English Classroom Teaching Schedule
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Helps you generate target words, sentence patterns, ideological and political goals, teaching steps, and after-class summaries related to English classroom.
 
@@ -305,9 +444,100 @@ For example:
 
 ---
 
+### Thesis Guidance
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Hello, I am the thesis guidance. Please fill in the fields of [Subject Direction], [Educational Stage], [Thesis Topic], and [Related Keywords]. The system will provide you with writing guidance. Teachers can incorporate their own practical cases based on the guidance framework to organize the thesis. Before generating the thesis, please click on 'New Topic' above the input box to avoid incoherent thesis generation.
+
+`Educational Paper`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Provide writing guidance based on the filled \[Subject Direction], \[Educational Stage], \[Thesis Topic], and \[Related Keywords].
+For example:
+
+    Subject Direction: Chinese
+    Educational Stage: Elementary School
+    Thesis Topic: Application of integrating reading and writing in elementary Chinese teaching
+    Related Keywords: Elementary Chinese; integrating reading and writing; promoting writing through reading; promoting reading through writing
+    Writing Framework: 1. Analysis of connotation, value, and characteristics; 2. Current development status of the issue; 3. Constructing approaches to problem-solving; 4. Case analysis and evaluation; 5. Summary and suggestions
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Topic Assessment
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Conduct topic evaluation and analysis based on the topics initially determined by educational journals
+
+`Educational Paper`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Conduct evaluation and analysis based on the topics provided by teachers.
+For example:
+
+    Subject Area: English
+    Educational Stage: Elementary School
+    Topic: Teaching English Words through Phonics
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Assessment and Promotion
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Establish assessment and promotion standards
+
+`Administrative Personnel`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Establish assessment and promotion standards based on positions and requirements.
+For example:
+
+    Position: Research and Development Personnel
+    Requirements: Divided into four levels - Junior Developer, Intermediate Developer, Senior Developer, and Architect
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Feasibility Analysis of Project Planning
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Provide the 'topic title' and intelligently generate a comprehensive and reasonable feasibility analysis of the research
 
@@ -333,9 +563,37 @@ For example:
 
 ---
 
+### Essay Assistant
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Write an essay based on the provided requirements
+
+`Intelligent Writing`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Write an essay based on the provided requirements.
+For example:
+
+    Essay requirements: Write an essay around the following three slogans: In 1981, Shenzhen Special Economic Zone, time is money, efficiency is life; In 2005, Zhejiang, green waters and lush mountains are mountains of gold and silver; In 2017, Xiong'an, let's walk the long march of our generation well. Choose a good perspective, determine the intention, and write an article of no less than 800 words, with no restriction on literary style.
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### Question Assistant
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Helps you generate test papers and make question creation easy
 
@@ -366,11 +624,11 @@ Question topic: Quadratic function
 
 ### Thesis Guidance
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Hello, I am the thesis guidance. Please fill in the fields of [Subject Direction], [Educational Stage], [Thesis Topic], and [Related Keywords]. The system will provide you with writing guidance. Teachers can incorporate their own practical cases based on the guidance framework to organize the thesis. Before generating the thesis, please click on 'New Topic' above the input box to avoid incoherent thesis generation.
 
-`Educational Thesis`
+`Educational Paper`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 
@@ -396,9 +654,39 @@ For example:
 
 ---
 
+### English Classroom Teaching Schedule
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Helps you generate target words, sentence patterns, ideological and political goals, teaching steps, and after-class summaries related to English classroom.
+
+`Teacher Assistant`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+Generate target words, sentence patterns, ideological and political goals, teaching steps, and after-class summaries according to requirements.
+For example:
+
+    Level: A1
+    Course Content: Present Continuous Tense
+    Topic: Ordering in a Restaurant
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### English Pronunciation Practice Sentences
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Generate sentences for practicing pronunciation
 
@@ -427,7 +715,7 @@ For example:
 
 ### Assessment and Promotion
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 Establish assessment and promotion standards
 
@@ -441,6 +729,31 @@ For example:
 
     Position: Research and Development Personnel
     Requirements: Divided into four levels - Junior Developer, Intermediate Developer, Senior Developer, and Architect
+
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### Lesson Plan Design
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+Helps you generate lesson plans for class
+
+`Teacher Assistant`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+You are a senior teacher, skilled in lesson plan design. Please design the lesson plan based on the grade, subject, textbook information, and course content I provide.
 
 ```
 

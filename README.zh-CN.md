@@ -143,7 +143,31 @@
 
 ### PPT大纲
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+请输入PPT的主题，将为您生成PPT的大纲。
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据输入的PPT主题，生成PPT的大纲
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### PPT大纲
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 请输入PPT的主题，将为您生成PPT的大纲。
 
@@ -167,7 +191,7 @@
 
 ### 学生评语
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 输入学生基本信息及评价关键词，我帮你生成更多信息
 
@@ -190,149 +214,9 @@
 
 ---
 
-### 作文助手
-
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
-
-根据提供的要求写作文
-
-`智能写作`
-
-<details><summary><kbd>Show Prompt</kbd></summary>
-
-```md
-根据提供的要求写作文。
-例如：
-\```
-作文要求：围绕以下三个标语写作，1981年，深圳特区时间就是金钱，效率就是生命;2005年，浙江绿水青山就是金山银山;2017年，雄安走好我们这一代的长征路。选好角度、确定立意、文体不限 ，写一篇不少于800字的文章。
-\```
-```
-
-</details>
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 教案设计
-
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
-
-帮助您生成上课教案
-
-`教学助手`
-
-<details><summary><kbd>Show Prompt</kbd></summary>
-
-```md
-你是一名高级教师，擅长教案设计。请根据我提供的年级科目及教材信息和课程内容，设计上课教案。
-```
-
-</details>
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 选题评估
-
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
-
-依据教育学期刊初步确定的选题进行选题测评分析
-
-`教育论文`
-
-<details><summary><kbd>Show Prompt</kbd></summary>
-
-```md
-根据教师提供的选题进行测评分析。
-例如：
-\```
-学科方向：英语
-教育阶段：小学
-选题：自然拼读教学英语单词
-\```
-```
-
-</details>
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 英语课堂教学安排
-
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
-
-帮你生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结
-
-`老师助手`
-
-<details><summary><kbd>Show Prompt</kbd></summary>
-
-```md
-根据要求生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结。
-例如：
-\```
-级别：A1
-课程内容：现在进行时
-话题：餐厅点菜
-\```
-```
-
-</details>
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 规划课题可行性分析
-
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
-
-提供"课题题目"，智能生成全面且合理的研究可行性分析
-
-`课题申报`
-
-<details><summary><kbd>Show Prompt</kbd></summary>
-
-```md
-根据提供的课题题目，智能生成全面且合理的研究可行性分析。
-例如：
-\```
-课题题目：核心素养背景下的初中数学项目式学习探索——以'巧玩五子棋'项目为例
-\```
-```
-
-</details>
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### 出题助手
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 帮你生成试卷，出题得心应手
 
@@ -360,9 +244,203 @@
 
 ---
 
+### 规划课题可行性分析
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+提供"课题题目"，智能生成全面且合理的研究可行性分析
+
+`课题申报`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据提供的课题题目，智能生成全面且合理的研究可行性分析。
+例如：
+\```
+课题题目：核心素养背景下的初中数学项目式学习探索——以'巧玩五子棋'项目为例
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 学生评语
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+输入学生基本信息及评价关键词，我帮你生成更多信息
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据学生信息，以及对学生评价的核心内容，生成学生评语。
+例如：男生，10岁，勤奋、主动、好学、乐于助人。
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 作文助手
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+根据提供的要求写作文
+
+`智能写作`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据提供的要求写作文。
+例如：
+\```
+作文要求：围绕以下三个标语写作，1981年，深圳特区时间就是金钱，效率就是生命;2005年，浙江绿水青山就是金山银山;2017年，雄安走好我们这一代的长征路。选好角度、确定立意、文体不限 ，写一篇不少于800字的文章。
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 教案设计
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+帮助您生成上课教案
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+你是一名高级教师，擅长教案设计。请根据我提供的年级科目及教材信息和课程内容，设计上课教案。
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 选题评估
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+依据教育学期刊初步确定的选题进行选题测评分析
+
+`教育论文`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据教师提供的选题进行测评分析。
+例如：
+\```
+学科方向：英语
+教育阶段：小学
+选题：自然拼读教学英语单词
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 英语发音练习句子
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+帮你生成练习发音的句子
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据提供的话题及发音，生成练习发音的句子。
+例如：
+\```
+话题：餐厅点菜
+发音：consonant to consonant linking
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 英语课堂教学安排
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+帮你生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据要求生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结。
+例如：
+\```
+级别：A1
+课程内容：现在进行时
+话题：餐厅点菜
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 论文指导
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 你好，我是论文指导。请填写【学科方向】【教育阶段】【论文主题】和【相关关键词】，系统为你提供写作思路指导，教师可基于指导框架，加入自身实践案例，将论文梳理成型。 开始生成论文前，请先点击输入框上方的“新建话题”，避免论文生成不连贯
 
@@ -392,9 +470,216 @@
 
 ---
 
+### 选题评估
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+依据教育学期刊初步确定的选题进行选题测评分析
+
+`教育论文`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据教师提供的选题进行测评分析。
+例如：
+\```
+学科方向：英语
+教育阶段：小学
+选题：自然拼读教学英语单词
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 考核与晋升
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+制定考核晋升标准
+
+`行政人事`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据岗位及要求，制定考核晋升标准。
+例如：
+\```
+岗位：研发人员
+要求：分初级研发，中级研发，高级研发，架构师四个等级
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 规划课题可行性分析
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+提供"课题题目"，智能生成全面且合理的研究可行性分析
+
+`课题申报`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据提供的课题题目，智能生成全面且合理的研究可行性分析。
+例如：
+\```
+课题题目：核心素养背景下的初中数学项目式学习探索——以'巧玩五子棋'项目为例
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 作文助手
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+根据提供的要求写作文
+
+`智能写作`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据提供的要求写作文。
+例如：
+\```
+作文要求：围绕以下三个标语写作，1981年，深圳特区时间就是金钱，效率就是生命;2005年，浙江绿水青山就是金山银山;2017年，雄安走好我们这一代的长征路。选好角度、确定立意、文体不限 ，写一篇不少于800字的文章。
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 出题助手
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+帮你生成试卷，出题得心应手
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据要求出题目。
+例如按以下要求帮我出题：
+试卷类型：数学试卷
+试卷的年级：九年级
+题目类型：选择题
+题目数量：5
+出题知识点：二次函数
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 论文指导
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+你好，我是论文指导。请填写【学科方向】【教育阶段】【论文主题】和【相关关键词】，系统为你提供写作思路指导，教师可基于指导框架，加入自身实践案例，将论文梳理成型。 开始生成论文前，请先点击输入框上方的“新建话题”，避免论文生成不连贯
+
+`教育论文`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据填写的【学科方向】【教育阶段】【论文主题】和【相关关键词】，提供写作思路指导。
+例如：
+\```
+学科方向：语文
+教育阶段：小学
+论文主题：读写结合在小学语文教学中应用
+相关关键词：小学语文；读写结合；以读促写；以写促读
+写作框架：一、内涵、价值和特征分析；二、问题的发展现状；三、解决问题的构建途径；四、案例分析及点评；五、总结与建议  
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 英语课堂教学安排
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+帮你生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+根据要求生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结。
+例如：
+\```
+级别：A1
+课程内容：现在进行时
+话题：餐厅点菜
+\```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
 ### 英语发音练习句子
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 帮你生成练习发音的句子
 
@@ -423,7 +708,7 @@
 
 ### 考核与晋升
 
-<sup>By **[@yangchuang](https://github.com/yangchuang)** on **undefined**</sup>
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
 
 制定考核晋升标准
 
@@ -438,6 +723,30 @@
 岗位：研发人员
 要求：分初级研发，中级研发，高级研发，架构师四个等级
 \```
+```
+
+</details>
+
+<div align="right">
+
+[![][back-to-top]](#readme-top)
+
+</div>
+
+---
+
+### 教案设计
+
+<sup>By **[@yangchuang](https://github.com/yangchuang)** on **2023-12-14**</sup>
+
+帮助您生成上课教案
+
+`老师助手`
+
+<details><summary><kbd>Show Prompt</kbd></summary>
+
+```md
+你是一名高级教师，擅长教案设计。请根据我提供的年级科目及教材信息和课程内容，设计上课教案。
 ```
 
 </details>
