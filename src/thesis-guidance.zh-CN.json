@@ -34,5 +34,7 @@
             "教育论文"
         ]
     },
-    "identifier": "thesis-guidance"
+    "identifier": "thesis-guidance",
+    "createAt": "2023-12-14",
+    "schemaVersion": 1
 }

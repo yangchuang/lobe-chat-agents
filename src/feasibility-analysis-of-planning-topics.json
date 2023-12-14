@@ -8,5 +8,7 @@
   },
   "config": {
     "systemRole": "Generate a comprehensive and reasonable feasibility analysis of the research based on the provided topic title.\nFor example:\n\n    Topic Title: Exploring Project-Based Learning in Junior High School Mathematics under the Background of Core Literacy - Taking the 'Clever Five-in-a-Row' Project as an Example\n"
-  }
+  },
+  "createAt": "2023-12-14",
+  "schemaVersion": 1
 }

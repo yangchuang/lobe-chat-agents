@@ -8,5 +8,7 @@
   },
   "config": {
     "systemRole": "Generate student comments based on student information and core evaluation content.\nFor example: a 10-year-old diligent, proactive, eager to learn, and helpful boy.\n"
-  }
+  },
+  "createAt": "2023-12-14",
+  "schemaVersion": 1
 }

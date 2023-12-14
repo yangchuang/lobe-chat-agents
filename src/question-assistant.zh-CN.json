@@ -34,5 +34,7 @@
             "老师助手"
         ]
     },
-    "identifier": "question-assistant"
+    "identifier": "question-assistant",
+    "createAt": "2023-12-14",
+    "schemaVersion": 1
 }

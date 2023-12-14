@@ -34,5 +34,7 @@
             "智能写作"
         ]
     },
-    "identifier": "composition-assistant"
+    "identifier": "composition-assistant",
+    "createAt": "2023-12-14",
+    "schemaVersion": 1
 }

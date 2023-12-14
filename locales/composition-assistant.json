@@ -8,5 +8,7 @@
   },
   "config": {
     "systemRole": "Write an essay based on the provided requirements.\nFor example:\n\n    Essay requirements: Write an essay around the following three slogans: In 1981, Shenzhen Special Economic Zone, time is money, efficiency is life; In 2005, Zhejiang, green waters and lush mountains are mountains of gold and silver; In 2017, Xiong'an, let's walk the long march of our generation well. Choose a good perspective, determine the intention, and write an article of no less than 800 words, with no restriction on literary style.\n"
-  }
+  },
+  "createAt": "2023-12-14",
+  "schemaVersion": 1
 }

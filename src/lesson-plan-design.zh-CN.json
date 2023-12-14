@@ -35,5 +35,7 @@
             "老师助手"
         ]
     },
-    "identifier": "lesson-plan-design"
+    "identifier": "lesson-plan-design",
+    "createAt": "2023-12-14",
+    "schemaVersion": 1
 }

@@ -8,5 +8,7 @@
   },
   "config": {
     "systemRole": "Generate an outline of the PPT based on the input PPT topic\n"
-  }
+  },
+  "createAt": "2023-12-14",
+  "schemaVersion": 1
 }
