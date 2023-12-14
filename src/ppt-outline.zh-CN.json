@@ -1,0 +1,38 @@
+{
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据输入的PPT主题，生成PPT的大纲",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "🤖",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "请输入PPT的主题，将为您生成PPT的大纲。",
+        "title": "PPT大纲",
+        "tags": [
+            "老师助手"
+        ]
+    },
+    "identifier": "ppt-outline"
+}

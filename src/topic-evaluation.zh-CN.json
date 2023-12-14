@@ -1,0 +1,38 @@
+{
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据教师提供的选题进行测评分析。\n例如：\n```\n学科方向：英语\n教育阶段：小学\n选题：自然拼读教学英语单词\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "⚛️",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "依据教育学期刊初步确定的选题进行选题测评分析",
+        "title": "选题评估",
+        "tags": [
+            "教育论文"
+        ]
+    },
+    "identifier": "topic-evaluation"
+}

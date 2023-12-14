@@ -1,0 +1,38 @@
+{
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据学生信息，以及对学生评价的核心内容，生成学生评语。\n例如：男生，10岁，勤奋、主动、好学、乐于助人。",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "📔",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "输入学生基本信息及评价关键词，我帮你生成更多信息",
+        "title": "学生评语",
+        "tags": [
+            "教师助手"
+        ]
+    },
+    "identifier": "student-comments"
+}

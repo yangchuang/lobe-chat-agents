@@ -1,0 +1,38 @@
+{
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据岗位及要求，制定考核晋升标准。\n例如：\n```\n岗位：研发人员\n要求：分初级研发，中级研发，高级研发，架构师四个等级\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "🎖️",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "制定考核晋升标准",
+        "title": "考核与晋升",
+        "tags": [
+            "行政人事"
+        ]
+    },
+    "identifier": "assessment-and-promotion"
+}

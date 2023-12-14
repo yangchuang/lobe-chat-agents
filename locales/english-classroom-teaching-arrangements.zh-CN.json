@@ -1,0 +1,38 @@
+{
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据要求生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结。\n例如：\n```\n级别：A1\n课程内容：现在进行时\n话题：餐厅点菜\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "🌐",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "帮你生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结",
+        "title": "英语课堂教学安排",
+        "tags": [
+            "教师助手"
+        ]
+    },
+    "identifier": "english-classroom-teaching-arrangements"
+}

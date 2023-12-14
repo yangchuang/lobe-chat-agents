@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "PPT Outline",
+    "description": "Enter the main topic of the PPT, and an outline of the PPT will be generated for you.",
+    "tags": [
+      "Teacher's Assistant"
+    ]
+  },
+  "config": {
+    "systemRole": "Generate an outline of the PPT based on the input PPT topic\n"
+  }
+}

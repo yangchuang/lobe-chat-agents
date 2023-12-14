@@ -1,0 +1,38 @@
+{
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据提供的话题及发音，生成练习发音的句子。\n例如：\n```\n话题：餐厅点菜\n发音：consonant to consonant linking\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "🎙️",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "帮你生成练习发音的句子",
+        "title": "英语发音练习句子",
+        "tags": [
+            "教师助手"
+        ]
+    },
+    "identifier": "english-practice-pronunciation-sentences"
+}

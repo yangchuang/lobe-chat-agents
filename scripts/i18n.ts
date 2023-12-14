@@ -7,7 +7,7 @@ import { config } from './const';
 
 const model = new ChatOpenAI(
   { temperature: 0, modelName: config.modelName },
-  { baseURL: process.env.OPENAI_PROXY_URL },
+  { baseURL: "https://ai.ericsky.com/api/openai/v1" },
 );
 
 export const translateJSON = async (json, outputLocale, entryLocale = config.entryLocale) => {
