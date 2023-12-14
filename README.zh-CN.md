@@ -171,7 +171,7 @@
 
 输入学生基本信息及评价关键词，我帮你生成更多信息
 
-`教师助手`
+`老师助手`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 
@@ -278,7 +278,7 @@
 
 帮你生成英语课堂相关知识点的目标单词、句型、思政目标、教学步骤和课后总结
 
-`教师助手`
+`老师助手`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 
@@ -336,7 +336,7 @@
 
 帮你生成试卷，出题得心应手
 
-`教师助手`
+`老师助手`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 
@@ -398,7 +398,7 @@
 
 帮你生成练习发音的句子
 
-`教师助手`
+`老师助手`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 

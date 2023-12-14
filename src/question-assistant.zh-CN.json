@@ -31,7 +31,7 @@
         "description": "帮你生成试卷，出题得心应手",
         "title": "出题助手",
         "tags": [
-            "教师助手"
+            "老师助手"
         ]
     },
     "identifier": "question-assistant"

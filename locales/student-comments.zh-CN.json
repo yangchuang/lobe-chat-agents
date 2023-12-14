@@ -31,7 +31,7 @@
         "description": "输入学生基本信息及评价关键词，我帮你生成更多信息",
         "title": "学生评语",
         "tags": [
-            "教师助手"
+            "老师助手"
         ]
     },
     "identifier": "student-comments"

@@ -147,7 +147,7 @@ If you wish to add an agent onto the index, make an entry in `agents` directory 
 
 Enter the main topic of the PPT, and an outline of the PPT will be generated for you.
 
-`Teacher's Assistant`
+`Teacher Assistant`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 
@@ -251,7 +251,7 @@ You are a senior teacher, skilled in lesson plan design. Please design the lesso
 
 Conduct topic evaluation and analysis based on the topics initially determined by educational journals
 
-`educational paper`
+`Educational Paper`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 
@@ -402,7 +402,7 @@ For example:
 
 Generate sentences for practicing pronunciation
 
-`Teacher's Assistant`
+`Teacher Assistant`
 
 <details><summary><kbd>Show Prompt</kbd></summary>
 

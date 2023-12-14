@@ -3,7 +3,7 @@
     "title": "Thesis Guidance",
     "description": "Hello, I am the thesis guidance. Please fill in the fields of [Subject Direction], [Educational Stage], [Thesis Topic], and [Related Keywords]. The system will provide you with writing guidance. Teachers can incorporate their own practical cases based on the guidance framework to organize the thesis. Before generating the thesis, please click on 'New Topic' above the input box to avoid incoherent thesis generation.",
     "tags": [
-      "Educational Thesis"
+      "Educational Paper"
     ]
   },
   "config": {
