@@ -38,7 +38,7 @@ export const findDuplicates = (arr: string[]): string[] => {
   }
 
   // 挑出重复出现 3 次以上的项目
-  const COUNT = 3;
+  const COUNT = 1;
 
   const result = Object.keys(duplicates).filter((item) => duplicates[item] >= COUNT);
 
