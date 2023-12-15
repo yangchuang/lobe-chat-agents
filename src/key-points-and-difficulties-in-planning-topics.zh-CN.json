@@ -1,0 +1,40 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据输入的【课题题目】、【所用研究理论】和【所用研究方法】，生成教育科学规划课题重点难点分析。\n比如：\n```\n课题题目：《通过任务型教学提高小学生的英语语言学习》\n所用研究理论：Vygotsky的社会文化理论（Vygotsky's Sociocultural Theory）作为主要的研究理论\n所用研究方法：研究采用了混合方法研究设计，包括定性和定量数据收集和分析方法\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "🔎",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "输入【课题题目】、【所用研究理论】和【所用研究方法】，生成教育科学规划课题重点难点分析",
+        "title": "规划课题重点难点",
+        "tags": [
+            "课题申报"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "key-points-and-difficulties-in-planning-topics",
+    "schemaVersion": 1
+}

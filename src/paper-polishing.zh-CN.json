@@ -1,0 +1,41 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "对输入文本内容进行润色，提供句子结构、语法、用词和表达清晰度等方面的改进建议。",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "📄",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "对输入文本内容进行润色，提供句子结构、语法、用词和表达清晰度等方面的改进建议。",
+        "title": "论文润色",
+        "tags": [
+            "老师助手",
+            "教育论文"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "paper-polishing",
+    "schemaVersion": 1
+}

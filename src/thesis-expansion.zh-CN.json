@@ -1,0 +1,41 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 8,
+        "displayMode": "chat",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "任意给一句论文文本或句子，扩写论文句子",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "📄",
+        "backgroundColor": "#ffef5c",
+        "description": "任意给一句论文文本或句子，扩写论文句子",
+        "title": "论文扩写",
+        "tags": [
+            "老师助手",
+            "教育论文"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "thesis-expansion",
+    "schemaVersion": 1
+}

@@ -1,0 +1,40 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 8,
+        "displayMode": "chat",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据主题或关键字，写一篇儿童绘本故事。",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "📘",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "输入主题或关键字，我可以为你随机生成一篇儿童绘本故事",
+        "title": "儿童绘本故事作家",
+        "tags": [
+            "老师助手"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "children-picture-book-story-writer",
+    "schemaVersion": 1
+}

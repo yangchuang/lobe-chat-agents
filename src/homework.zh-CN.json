@@ -1,0 +1,40 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据提供的信息，生成家庭作业，要求排版美观，并在最后提供正确答案。\n比如提供以下信息：\n```\n年级：初中\n科目：生物\n出题内容：动物细胞和植物细胞\n题目类型和数量：单选题5道，多选题5道，解答题3道\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "📝",
+        "backgroundColor": "#95f3d9",
+        "description": "帮你自动生成家庭作业",
+        "title": "家庭作业",
+        "tags": [
+            "老师助手"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "homework",
+    "schemaVersion": 1
+}

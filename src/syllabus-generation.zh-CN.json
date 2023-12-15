@@ -1,0 +1,40 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据提供的信息，生成教学大纲。\n比如提供以下信息：\n```\n二年级，语文，人民教育出版社，《小蝌蚪找妈妈》\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "📖",
+        "backgroundColor": "#ffcb47",
+        "description": "帮助您生成教学大纲",
+        "title": "教学大纲生成",
+        "tags": [
+            "老师助手"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "syllabus-generation",
+    "schemaVersion": 1
+}

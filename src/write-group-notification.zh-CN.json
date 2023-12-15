@@ -1,0 +1,40 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据提供的信息，帮写群通知。\n比如提供以下信息：\n```\n事项：2024年春节放假\n接受信息的人群身份：学生家长\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "🔔",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "帮您写群通知",
+        "title": "写群通知",
+        "tags": [
+            "老师助手"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "write-group-notification",
+    "schemaVersion": 1
+}

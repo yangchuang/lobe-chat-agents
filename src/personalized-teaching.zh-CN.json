@@ -1,0 +1,40 @@
+{
+    "config": {
+        "autoCreateTopicThreshold": 2,
+        "displayMode": "docs",
+        "enableAutoCreateTopic": true,
+        "historyCount": 1,
+        "model": "gpt-3.5-turbo",
+        "params": {
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+            "temperature": 0.6,
+            "top_p": 1
+        },
+        "plugins": [],
+        "systemRole": "根据学生的情况制定特定的教学计划。\n比如提供一下信息：\n```\n二年级，数学，学生做单位换算题目经常出错\n```",
+        "tts": {
+            "showAllLocaleVoice": false,
+            "sttLocale": "auto",
+            "ttsService": "openai",
+            "voice": {
+                "openai": "alloy"
+            }
+        }
+    },
+    "group": "default",
+    "meta": {
+        "avatar": "♾️",
+        "backgroundColor": "rgba(0,0,0,0)",
+        "description": "根据学生的情况制定特定的教学计划",
+        "title": "个性化教学",
+        "tags": [
+            "老师助手"
+        ]
+    },
+    "author": "yangchuang",
+    "homepage": "https://github.com/yangchuang",
+    "createAt": "2023-12-14",
+    "identifier": "personalized-teaching",
+    "schemaVersion": 1
+}
